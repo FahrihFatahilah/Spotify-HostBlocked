@@ -1,0 +1,9 @@
+C:\Users\MajesticID\documents\visual studio 2010\Projects\SpotifyPatch\SpotifyPatch\bin\Debug\SpotifyPatch.exe
+C:\Users\MajesticID\documents\visual studio 2010\Projects\SpotifyPatch\SpotifyPatch\bin\Debug\SpotifyPatch.pdb
+C:\Users\MajesticID\documents\visual studio 2010\Projects\SpotifyPatch\SpotifyPatch\bin\Debug\SpotifyPatch.xml
+C:\Users\MajesticID\documents\visual studio 2010\Projects\SpotifyPatch\SpotifyPatch\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\MajesticID\documents\visual studio 2010\Projects\SpotifyPatch\SpotifyPatch\obj\x86\Debug\SpotifyPatch.vbproj.GenerateResource.Cache
+C:\Users\MajesticID\documents\visual studio 2010\Projects\SpotifyPatch\SpotifyPatch\obj\x86\Debug\SpotifyPatch.exe
+C:\Users\MajesticID\documents\visual studio 2010\Projects\SpotifyPatch\SpotifyPatch\obj\x86\Debug\SpotifyPatch.xml
+C:\Users\MajesticID\documents\visual studio 2010\Projects\SpotifyPatch\SpotifyPatch\obj\x86\Debug\SpotifyPatch.pdb
+C:\Users\MajesticID\documents\visual studio 2010\Projects\SpotifyPatch\SpotifyPatch\obj\x86\Debug\WindowsApplication1.Form1.resources
